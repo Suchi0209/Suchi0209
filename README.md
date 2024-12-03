@@ -8,4 +8,4 @@ Hi! I'm Suchitra Sharma, a data professional dedicated to uncovering trends, sol
 Let's Connect!
 📧 Email: [suchitra@suchitraltd.co.uk]
 💼 LinkedIn: Your LinkedIn Profile
-🌐 Portfolio: Your Portfolio Link
+🌐 Portfolio: https://sites.google.com/view/suchitra-sharma/home
