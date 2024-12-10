@@ -7,5 +7,6 @@ Hi! I'm Suchitra Sharma, a data professional dedicated to uncovering trends, sol
 <div align="center"> <h2 align="center">📊 Data Visualization Tools</h2> </div> <p>I excel in creating insightful visualizations using the following tools:</p> <p align="center"> <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a> <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50"/> </a> <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/> </a> </p>
 Let's Connect!
 📧 Email: [suchitra@suchitraltd.co.uk]
-💼 LinkedIn: https://www.linkedin.com/in/suchitra-sharma-715228105/
+💼 LinkedIn: www.linkedin.com/in/suchitra-sharma-715228105
+
 🌐 Portfolio: https://sites.google.com/view/suchitra-sharma/home
