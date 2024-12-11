@@ -2,6 +2,7 @@
 About Me
 
 Hi! I'm Suchitra Sharma, a data professional dedicated to uncovering trends, solving problems, and driving decisions through data. I specialize in transforming raw datasets into actionable insights and delivering impactful visualizations.
+
 📚 **Education**  
 - **B.Sc. in Computer Science** with a focus on [Mathematics and Physics]  
 - Certifications:
