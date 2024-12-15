@@ -21,12 +21,3 @@ Let's Connect!
 
 🌐 Portfolio: https://sites.google.com/view/suchitra-sharma/home
 
-## 📜 Certifications
-
-[![Skills Bootcamps in Data Technician]
-https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKhKhjsVfWxjmwtMZFHHbSqbb?projector=1&messagePartId=0.1
-
-
-
-
-
