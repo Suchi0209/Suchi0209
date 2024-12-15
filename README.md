@@ -24,10 +24,8 @@ Let's Connect!
 ## 📜 Certifications
 
 [![Skills Bootcamps in Data Technician]
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKhKhjsVfWxjmwtMZFHHbSqbb?projector=1&messagePartId=0.1
 
-
-
-[Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Suchitra.pdf](https://github.com/user-attachments/files/18142408/Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Suchitra.pdf)
 
 
 
