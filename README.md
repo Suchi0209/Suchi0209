@@ -20,3 +20,7 @@ Let's Connect!
 💼 LinkedIn: www.linkedin.com/in/suchitra-sharma-715228105
 
 🌐 Portfolio: https://sites.google.com/view/suchitra-sharma/home
+## 📜 Certifications
+
+- [Skills Bootcamps in Data Technician – Certificate of Achievement](file:///C:/Users/suchi/Downloads/Just%20IT%20Certificate%20of%20Achievement%20-%20Skills%20Bootcamps%20in%20Data%20Technician_Suchitra.pdf)
+
