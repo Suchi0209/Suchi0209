@@ -24,5 +24,5 @@ Let's Connect!
 
 
 
-[Just IT Certificate of Achievement - Skills Bootcamps in Data Technician_Suchitra.pdf](https://github.com/user-attachments/files/18142333/Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Suchitra.pdf)
+[Just IT Certificate of Achievement - Skills Bootcamps in Data Technician_Suchitra.pdf](https://mail.google.com/mail/u/0/#inbox?projector=1)
 
