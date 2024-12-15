@@ -21,7 +21,13 @@ Let's Connect!
 
 🌐 Portfolio: https://sites.google.com/view/suchitra-sharma/home
 
+## 📜 Certifications
 
+[![Skills Bootcamps in Data Technician]
+
+
+
+[Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Suchitra.pdf](https://github.com/user-attachments/files/18142408/Just.IT.Certificate.of.Achievement.-.Skills.Bootcamps.in.Data.Technician_Suchitra.pdf)
 
 
 
